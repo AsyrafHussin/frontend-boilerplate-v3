@@ -1,13 +1,13 @@
-# Frontend Boilerplate v2
+# Frontend Boilerplate v3
 
-Frontend Boilerplate v2
+Frontend Boilerplate v3
 
 ## Contains
 
--   [Bootstrap v4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+-   [Bootstrap v5](https://getbootstrap.com)
 -   [jQuery](https://jquery.com/)
 -   [sass-boilerplate](https://github.com/AsyrafHussin/sass-boilerplate)
--   [Font Awesome v5](https://fontawesome.com/)
+-   [Boxicons](https://boxicons.com)
 -   [Roboto Font](https://fonts.googleapis.com/css?family=Roboto)
 -   [Laravel Mix v6](https://github.com/JeffreyWay/laravel-mix)
 -   [Mix HTML Builder](https://github.com/philicevic/mix-html-builder)
@@ -16,7 +16,7 @@ Frontend Boilerplate v2
 
 ```bash
 # Clone the repo
-git clone https://github.com/AsyrafHussin/frontend-boilerplate-v2.git <project>
+git clone git@github.com:AsyrafHussin/frontend-boilerplate-v3.git <project>
 
 # Navigate to project folder
 cd <project>
