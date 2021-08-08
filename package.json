@@ -11,7 +11,6 @@
         "serve": "npx http-server ./dist -p 8000"
     },
     "devDependencies": {
-        "@fortawesome/fontawesome-free": "^5.15.4",
         "autoprefixer": "^10.3.1",
         "bootstrap": "^5.1.0",
         "browser-sync": "^2.27.5",
